@@ -6248,7 +6248,7 @@
     "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1.0,
-    "ResearchOverrides": null,
+    "ResearchOverrides": true,
     "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
